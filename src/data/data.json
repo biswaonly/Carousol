@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "passengerName": "Prodosh Mira",
+    "fromCity": "Kolkata",
+    "toCity": "Bengaluru",
+    "date": "Sat Jun 15 2019 10:19:08 GMT+0530 (India Standard Time)",
+    "pnrNo": 101,
+    "mode": "Train"
+  },
+  {
+    "id": 2,
+    "passengerName": "Byomkesh Bakshi",
+    "fromCity": "Bengaluru",
+    "toCity": "Kolkata",
+    "date": "Sat Jun 15 2019 10:19:08 GMT+0530 (India Standard Time)",
+    "pnrNo": 102,
+    "mode": "Plane"
+  },
+  {
+    "id": 3,
+    "passengerName": "Professor Shonku",
+    "fromCity": "Delhi",
+    "toCity": "Chennai",
+    "date": "Sat Jun 15 2019 10:19:08 GMT+0530 (India Standard Time)",
+    "pnrNo": 103,
+    "mode": "Bus"
+  },
+  {
+    "id": 4,
+    "passengerName": "Captain Nemo",
+    "fromCity": "Chennai",
+    "toCity": "Delhi",
+    "date": "Sat Jun 15 2019 10:19:08 GMT+0530 (India Standard Time)",
+    "pnrNo": 104,
+    "mode": "Ship"
+  }
+]
